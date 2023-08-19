@@ -21,7 +21,7 @@ Compared to traditional binary counters, Johnson counters can produce twice as m
 ![image](https://github.com/tusharshenoy/4-BIT-Johnson-Counter/assets/107348474/dd3a528c-560e-4dd7-ae40-6ed0b7cf7d88)
 
 ## ***Tech Stack***
-[Vivado ML Edition - 2023.1](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/2023-1.html) used to implement the code and [draw.io]([draw.io](https://app.diagrams.net/)) website to design the circuit.
+[Vivado ML Edition - 2023.1](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/2023-1.html) used to implement the code and [draw.io](https://app.diagrams.net/) website to design the circuit.
 
 ## ***Working***
 
