@@ -21,7 +21,7 @@ Compared to traditional binary counters, Johnson counters can produce twice as m
 ![image](https://github.com/tusharshenoy/4-BIT-Johnson-Counter/assets/107348474/dd3a528c-560e-4dd7-ae40-6ed0b7cf7d88)
 
 ## ***Tech Stack***
-Vivado ML Edition - 2023.1 [https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/2023-1.html](url) used to implement the code and [ draw.io](url) website to design the circuit.
+[Vivado ML Edition - 2023.1](https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/2023-1.html) used to implement the code and [draw.io](draw.io) website to design the circuit.
 
 ## ***Working***
 
@@ -105,15 +105,15 @@ In conclusion, the designed code shows the implementation of ‘4-bit Johnson co
 
 ##	***References*** ##
 
-[1] Javatpoint. "Johnson Counter Circuit." Available at:    https:[//www.javatpoint.com/johnson-counter-in-digital-electronics](url)
+[1] Javatpoint. "Johnson Counter Circuit." Available at:    https:[//www.javatpoint.com/johnson-counter-in-digital-electronics](//www.javatpoint.com/johnson-counter-in-digital-electronics)
 
-[2] Electronics Tutorials. "Sequential Circuits - Johnson Ring Counter." Available at: https:[//www.electronics-tutorials.ws/sequential/seq_6.html](url)
+[2] Electronics Tutorials. "Sequential Circuits - Johnson Ring Counter." Available at: https:[//www.electronics-tutorials.ws/sequential/seq_6.html](//www.electronics-tutorials.ws/sequential/seq_6.html)
 
-[3] "Digital Counters - Johnson Ring and More." Available at: https:[//www.circuitsgallery.com/digital-counters-johnson-ring-and-more/](url)
+[3] "Digital Counters - Johnson Ring and More." Available at: https:[//www.circuitsgallery.com/digital-counters-johnson-ring-and-more/](//www.circuitsgallery.com/digital-counters-johnson-ring-and-more/)
 
-[4] ChipVerify: Counters. "Verilog Johnson Counter." Available at: https:[//www.chipverify.com/verilog/verilog-johnson-counter](url)
+[4] ChipVerify: Counters. "Verilog Johnson Counter." Available at: https:[//www.chipverify.com/verilog/verilog-johnson-counter](//www.chipverify.com/verilog/verilog-johnson-counter)
 
-[5] BrainKart. "Johnson Ring Counter." Available at: https:[//www.brainkart.com/article/Johnson-Ring-Counter_12979/](url)
+[5] BrainKart. "Johnson Ring Counter." Available at: https:[//www.brainkart.com/article/Johnson-Ring-Counter_12979/](//www.brainkart.com/article/Johnson-Ring-Counter_12979/)
 
 
 
